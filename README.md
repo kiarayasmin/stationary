@@ -1,2 +1,2 @@
 # stationary
-nyoba buat repo web ci3 stationary
+Web aplikasi stationary menggunakan framework PHP Codeigniter
